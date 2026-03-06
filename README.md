@@ -68,7 +68,7 @@ dataset/
 Clone the repository:
 
 ```bash
-git clone https://github.com/chinnarasan007/face-mask-detection.git
+https://github.com/chinnarasan007/Deep_Learning_Project-Face_Mask_Detection_using_CNN/tree/main
 ```
 
 Navigate to the project directory:
