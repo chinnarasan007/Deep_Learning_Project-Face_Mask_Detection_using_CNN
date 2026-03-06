@@ -182,3 +182,4 @@ The CNN model successfully classifies images as **mask or no-mask** and performs
 # 👨‍💻 Author
 
 **Chinnarajan M**
+Aspiring Data Scientist
