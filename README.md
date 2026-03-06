@@ -51,9 +51,8 @@ Download the dataset from the link below:
 
 ```
 Dataset Download Link:
-https://your-dataset-download-link
+https://drive.google.com/drive/folders/1SOlTfvAcQoRY3OcxYa-pbxdI0ydlWRbW?usp=drive_link
 ```
-
 After downloading, extract the dataset and place it inside the project folder like this:
 
 ```
